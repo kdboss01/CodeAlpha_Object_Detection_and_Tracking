@@ -375,5 +375,5 @@ This project is built for academic and educational purposes using open-source li
 ---
 
 <div align="center">
-Built as part of Task 4 — Object Detection and Tracking
+Built as part of Task 4 — Object Detection and Tracking By Krishna Shrivastava - https://github.com/kdboss01
 </div>
