@@ -132,7 +132,6 @@ object-detection-tracking/
 │
 ├── detect_and_track.py     # Main script — detection + tracking pipeline
 ├── requirements.txt        # Python dependencies (pinned versions)
-├── SETUP_GUIDE.md          # Step-by-step installation guide
 ├── README.md               # This file
 │
 ├── tracking_env/           # Virtual environment (generated — do not commit)
